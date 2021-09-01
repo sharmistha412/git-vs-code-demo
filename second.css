@@ -1,0 +1,11 @@
+body{
+    background-color: azure;
+}
+hr{
+    border-style:none;
+    border-top-style: dotted;
+    width: 10%;
+    border-color: rgb(0, 0, 0);
+    border-width: 5px;
+
+}
